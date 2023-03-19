@@ -1,0 +1,79 @@
+
+body{
+  background-color: #F6E8EA;
+  padding: 0 ;
+  margin: 0;
+}
+
+
+  .container {display: grid;}
+
+a{text-decoration: none;}
+
+nav{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+  background-color: #4e2086;
+  line-height: 3em;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+nav a { color: #f8ec0d;;}
+
+nav a:hover {color: #F45B69;}
+
+.lacrosse h3 {text-align: center;}
+
+.lacrosse { margin-top: 20px;}
+
+.Laxvideos{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  background-color: #F45B69;
+  padding-top: 40px;
+}
+
+.rules{margin-top: 20px;}
+
+.rules h3 {text-align: center;}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 54px;
+}
+
+.img1{margin-left: 105px;}
+
+.img1 p{text-align: center; }
+
+.img2{margin-left: 312px;}
+
+.img2 p{
+  text-align: center;
+  margin-right: 70px;
+}    
+
+.img-1{
+  margin-left: 40px;
+  width: 400px;
+  height: 300px;}
+
+.img-2{
+  margin-left: 84px;
+  width: 400px;
+  height: 300px;
+}
+
+footer{
+margin-top: 30px;
+text-align: center;}
+
+footer a:hover {
+  color: #F45B69;
+}
+

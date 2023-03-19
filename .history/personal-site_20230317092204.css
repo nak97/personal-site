@@ -1,0 +1,49 @@
+.container {
+  display: grid;
+}
+
+a{
+  text-decoration: none;
+}
+nav{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Laxvideos{
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 54px;
+}
+
+.img1{
+  margin-left: 105px;
+}
+
+.img2{
+  margin-left: 312px;
+}
+
+.img-1{
+  margin-left: 40px;
+}
+
+.img-1 p{
+  text-align: center;
+  margin-right: 109px;
+}
+
+.img-2{
+  margin-left: 70px;
+}
+
+.img-2 p{
+  padding-left: 210px;
+  text-align: center;
+}    

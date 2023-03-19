@@ -1,0 +1,22 @@
+.container {
+  display: grid;
+}
+
+a{
+  text-decoration: none;
+}
+nav{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Laxvideos{
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+}
